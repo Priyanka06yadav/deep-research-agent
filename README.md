@@ -4,9 +4,8 @@ A Python-based multi-agent application that takes a research question, searches 
 
 I built this project to get hands-on experience with the OpenAI Agents SDK, tool calling, agent orchestration, structured outputs, and building an application around LLMs.
 <img width="945" height="425" alt="Screenshot 2026-11-13 024039" src="https://github.com/user-attachments/assets/2ba6ef9c-900e-47c5-9b02-01ef744a9179" />
-<img width="914" height="420" alt="Screenshot 2026-11-13 024107" src="https://github.com/user-attachments/assets/bbde16d7-9a37-4e91-96e2-5f286a1e3492" />
 <img width="939" height="395" alt="Screenshot 2026-11-13 024056" src="https://github.com/user-attachments/assets/f7b3049b-0dee-4516-9aaf-65a23152a961" />
-<img width="568" height="419" alt="Screenshot 2026-11-13 023357" src="https://github.com/user-attachments/assets/3883809d-6047-422c-adc1-8bcfbb510eea" />
+<img width="914" height="420" alt="Screenshot 2026-11-13 024107" src="https://github.com/user-attachments/assets/bbde16d7-9a37-4e91-96e2-5f286a1e3492" />
 
 
 The application also generates an email draft with the report attached. The email is sent only after the user reviews and approves it.
