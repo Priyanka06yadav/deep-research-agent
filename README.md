@@ -177,15 +177,21 @@ Open the Gradio URL printed in the terminal.
 
 ## Screenshots
 
-I'll add screenshots of the application here once the final UI is ready.
+### Main Application
 
 ![Application UI](docs/Screenshot 2026-11-13 023328.png)
 
+### Generated Research Report
+
 ![Generated Research Report](docs/Screenshot 2026-11-13 024039.png)
+
+### Email Draft
 
 ![Email Draft](docs/Screenshot 2026-11-13 024056.png)
 
-![Email Draft2](docs/Screenshot 2026-11-13 024107.png)
+### Email Approval
+
+![Email Approval](docs/Screenshot 2026-11-13 024107.png)
 
 ## Deployment
 
