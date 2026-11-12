@@ -179,19 +179,19 @@ Open the Gradio URL printed in the terminal.
 
 ### Main Application
 
-![Application UI](docs/Screenshot 2026-11-13 023328.png)
+![Application UI](docs/Screenshot 2026-11-13 024039.png)
 
 ### Generated Research Report
 
-![Generated Research Report](docs/Screenshot 2026-11-13 024039.png)
+![Generated Research Report](docs/Screenshot 2026-11-13 024056.png)
 
 ### Email Draft
 
-![Email Draft](docs/Screenshot 2026-11-13 024056.png)
+![Email Draft](docs/Screenshot 2026-11-13 024107.png)
 
 ### Email Approval
 
-![Email Approval](docs/Screenshot 2026-11-13 024107.png)
+![Email Approval](docs/Screenshot 2026-11-13 023357.png)
 
 ## Deployment
 
