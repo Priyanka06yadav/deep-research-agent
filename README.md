@@ -10,7 +10,7 @@ I built this project to get hands-on experience with the OpenAI Agents SDK, tool
 
 The application also generates an email draft with the report attached. The email is sent only after the user reviews and approves it.
 
-## What it does
+## What it does?
 
 You enter a research topic and an email address. The application then:
 
@@ -22,7 +22,7 @@ You enter a research topic and an email address. The application then:
 6. Uses the Emailer Agent to prepare an email draft.
 7. Displays the draft for review. The email is sent only when the user approves it.
 
-## How the agents work together
+## How the agents work together?
 
 I kept the agents focused on individual tasks and used a Python pipeline to control the order in which they run. There are no agent-to-agent handoffs in this implementation.
 
@@ -201,7 +201,7 @@ The following environment variables need to be configured in the Render dashboar
 
 Note: Reports are currently saved to the local `reports/` directory. Render's default filesystem is ephemeral, so generated files are not guaranteed to remain available after a restart or redeployment.
 
-## What I learned
+## What I learned?
 
 Building this project helped me understand a few things beyond simply calling an LLM API:
 
