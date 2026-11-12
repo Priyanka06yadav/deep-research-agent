@@ -3,10 +3,11 @@
 A Python-based multi-agent application that takes a research question, searches the web, organizes the findings, and generates a research report.
 
 I built this project to get hands-on experience with the OpenAI Agents SDK, tool calling, agent orchestration, structured outputs, and building an application around LLMs.
-<img width="568" height="419" alt="Screenshot 2026-11-13 023357" src="https://github.com/user-attachments/assets/4e86a766-0f70-4be9-ae4a-854001ed92b3" />
-<img width="914" height="420" alt="Screenshot 2026-11-13 024107" src="https://github.com/user-attachments/assets/c446fabd-0942-452c-aefa-a9e31025bf26" />
-<img width="939" height="395" alt="Screenshot 2026-11-13 024056" src="https://github.com/user-attachments/assets/0dcc414b-3548-4fb2-85e7-c95626b70beb" />
-<img width="945" height="425" alt="Screenshot 2026-11-13 024039" src="https://github.com/user-attachments/assets/20965f9d-2b92-4c23-b1a2-b0d1a8033342" />
+<img width="945" height="425" alt="Screenshot 2026-11-13 024039" src="https://github.com/user-attachments/assets/2ba6ef9c-900e-47c5-9b02-01ef744a9179" />
+<img width="914" height="420" alt="Screenshot 2026-11-13 024107" src="https://github.com/user-attachments/assets/bbde16d7-9a37-4e91-96e2-5f286a1e3492" />
+<img width="939" height="395" alt="Screenshot 2026-11-13 024056" src="https://github.com/user-attachments/assets/f7b3049b-0dee-4516-9aaf-65a23152a961" />
+<img width="568" height="419" alt="Screenshot 2026-11-13 023357" src="https://github.com/user-attachments/assets/3883809d-6047-422c-adc1-8bcfbb510eea" />
+
 
 The application also generates an email draft with the report attached. The email is sent only after the user reviews and approves it.
 
@@ -178,24 +179,6 @@ uv run python app.py
 ```
 
 Open the Gradio URL printed in the terminal.
-
-## Screenshots
-
-### Main Application
-
-![Application UI](docs/Screenshot 2026-11-13 024039.png)
-
-### Generated Research Report
-
-![Generated Research Report](docs/Screenshot 2026-11-13 024056.png)
-
-### Email Draft
-
-![Email Draft](docs/Screenshot 2026-11-13 024107.png)
-
-### Email Approval
-
-![Email Approval](docs/Screenshot 2026-11-13 023357.png)
 
 ## Deployment
 
