@@ -1,0 +1,22 @@
+[project]
+name = "deep-research-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Priyanka06yadav", email = "dmypriyanka@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "gradio>=6.31.0",
+    "openai-agents>=0.24.0",
+    "python-dotenv>=1.2.4",
+    "tavily-python>=0.8.5",
+]
+
+[project.scripts]
+deep-research-agent = "deep_research_agent:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
